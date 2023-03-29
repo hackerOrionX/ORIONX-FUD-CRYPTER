@@ -3,7 +3,7 @@ The only FREE and 100% FUD crypter that <strong>WILL STILL FUD</strong>, work on
 <div class="center" align="center"><center><img src="https://github.com/hackerOrionX/ORIONX-FUD-CRYPTER/blob/main/images/skull.png" width="120"/></center></div>
 <br>
 <div align="center" class="center">
-<center><strong>💀 ORIONX FUD CRYPTER 💀</font></strong></center>
+<center><strong>💀 ORIONX FUD CRYPTER 💀<br> <a href="https://github.com/hackerOrionX/ORIONX-FUD-CRYPTER/archive/refs/heads/main.zip"> DOWNLOAD </a></font></strong></center>
 </div>
 <br>
 <br>
