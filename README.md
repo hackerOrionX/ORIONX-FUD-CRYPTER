@@ -1,2 +1,2 @@
 # ORIONX-FUD-CRYPTER
-The only 100% working FUD crypter that will still FUD, work on Windows. Powerfull obfuscator to bypass Anti-Viruses detection.
+The only FREE and 100% FUD crypter that will still FUD, work on Windows. Powerfull obfuscator to bypass Anti-Viruses detection.
