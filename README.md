@@ -24,10 +24,10 @@ It was actually made for windows but I will release the source code and modify i
 - Run ORIONX FUD CRYPTER.exe 
 - Set the input (The path to the malware you want to make undetectable) and ouput the directory where you want to file to be generated
 
-🔶ORIONX IN ACTION!🔶
+🔶ORIONX in action!🔶
 ----
 
-<img src="" alt="ORIONX Free fud crypter" width/>
+<img src="" alt="ORIONX Free fud crypter" width=""/>
 
 🔶How does it work🔶
 ----
@@ -38,6 +38,7 @@ ORIONX got a complex AES256 and XOR encryption. It crypt the bytes of your exe s
 ----
 
 <strong> <div align="center">⚠️ DO NOT USE THIS SCRIPT FOR ILLEGAL PURPOSES ⚠️ </div> </strong>
+<br>
 IT'S THE END USER'S RESPONSIBILITY TO OBEY ALL APPLICABLE LOCAL, STATE AND FEDERAL LAWS. DEVELOPERS ASSUME NO LIABILITY AND ARE NOT RESPONSIBLE FOR ANY MISUSE OR DAMAGE CAUSED BY THIS PROGRAM.
 
 🔶Thank you🔶
