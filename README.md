@@ -8,8 +8,8 @@ The only FREE and 100% FUD crypter that will still FUD, work on Windows. Powerfu
 <br>
 <br>
 🔶Description🔶
------------
-I WLL UPDATE THE STUB SO THAT IT STILL FUD <strong>FOREVER</strong> and to paid my effort <strong>❗ DO NOT UPLOAD TO VIRUS TOTAL ❗</strong>
+-------------------
+- I WLL UPDATE THE STUB SO THAT IT STILL FUD <strong>FOREVER</strong> and to paid my effort <strong>❗ DO NOT UPLOAD TO VIRUS TOTAL ❗</strong>
 Contribute to the dream of making the only github fud crypter that will still <strong>FUD</strong>.
 
 I created this <strong>100% FUD</strong> crypter for myself but I decided to share it.
