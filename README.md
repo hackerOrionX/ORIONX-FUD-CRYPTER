@@ -1,5 +1,5 @@
 # ORIONX-FUD-CRYPTER
-The only FREE and 100% FUD crypter that <strong>WILL STILL FUD</strong>, work on Windows. Powerfull obfuscator to bypass Anti-Viruses detection.
+The only <strong>FREE</strong> and 100% FUD crypter that <strong>WILL STILL FUD</strong>, work on Windows. Powerfull obfuscator to bypass Anti-Viruses detection.
 <div class="center" align="center"><center><img src="https://github.com/hackerOrionX/ORIONX-FUD-CRYPTER/blob/main/images/skull.png" width="120"/></center></div>
 <br>
 <div align="center" class="center">
