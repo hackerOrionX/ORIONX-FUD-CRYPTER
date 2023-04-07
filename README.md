@@ -24,7 +24,7 @@ It was actually made for windows but I will release the source code and modify i
 - Run ORIONX FUD CRYPTER.exe 
 - Set the input (The path to the malware you want to make undetectable) and ouput the directory where you want to file to be generated
 - Click "! CRYPT NOW !" button, the process may take few minute.
-- Finally enhoy your FUD crypted malware!
+- Finally enjoy your FUD crypted malware!
 
 🔶ORIONX in action!🔶
 ----
