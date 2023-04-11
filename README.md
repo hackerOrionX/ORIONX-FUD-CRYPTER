@@ -15,7 +15,9 @@ Contribute to the dream of making the only github fud crypter that will still <s
 
 I created this <strong>100% FUD</strong> crypter for myself but I decided to share it.
 I simplified it so that it can be accessible to everyone, so it's very easy to use and already compiled.
-It was actually made for windows but I will release the source code and modify it a little bit so that linux users can use it too (I tried on wine and it's not working)
+It was actually made for windows but I will release the source code and modify it a little bit so that linux users can use it too (I tried on wine and it's not working).
+
+The stub have already been updated 2 times.
 
 🔶Usage/Install🔶
 -----
