@@ -2,7 +2,7 @@
 <center> IMPORTANT NOTE: I'm fixing bugs, the script isn't working anymore I need to make it FUD again (cuz ppl uploaded it to virus total) </center>
 
 The only <strong>FREE</strong> and 100% FUD crypter that <strong>WILL STILL FUD</strong>, work on Windows. Powerfull obfuscator to bypass Anti-Viruses detection.
-<div class="center" align="center"><center><img src="https://github.com/hackerOrionX/ORIONX-FUD-CRYPTER/blob/main/images/skull.png" width="120"/></center></div>
+<div class="center" align="center"><center><img src="https://github.com/hackerOrionX/ORIONX-FUD-CRYPTER/blob/main/images/skull.png" width="120" alt="orionx fud crypter skull logo"/></center></div>
 <br>
 <div align="center" class="center">
 <center><strong>💀 ORIONX FUD CRYPTER 💀<br> <a href="https://github.com/hackerOrionX/ORIONX-FUD-CRYPTER/archive/refs/heads/main.zip"> DOWNLOAD </a></font></strong></center>
