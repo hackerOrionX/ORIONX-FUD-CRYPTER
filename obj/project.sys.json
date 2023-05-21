@@ -1,21 +1,4 @@
-{
-  "format": 1,
-  "restore": {
-    "C:\\Users\\attationin\\Documents\\gitscam\\XOR\\XOR-crypter\\XOR-crypter\\XOR-crypter.csproj": {}
-  },
-  "projects": {
-    "C:\\Users\\attationin\\Documents\\gitscam\\XOR\\XOR-crypter\\XOR-crypter\\XOR-crypter.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\attationin\\Documents\\gitscam\\XOR\\XOR-crypter\\XOR-crypter\\XOR-crypter.csproj",
-        "projectName": "AlCrypter",
-        "projectPath": "C:\\Users\\attationin\\Documents\\gitscam\\XOR\\XOR-crypter\\XOR-crypter\\XOR-crypter.csproj",
-        "packagesPath": "C:\\Users\\attationin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\attationin\\Documents\\gitscam\\XOR\\XOR-crypter\\XOR-crypter\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\attationin\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+
         ],
         "originalTargetFrameworks": [
           "net46"
