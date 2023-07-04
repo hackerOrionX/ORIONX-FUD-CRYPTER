@@ -19,7 +19,7 @@ The only <strong>FREE</strong> and 100% FUD crypter that <strong>WILL STILL FUD<
 - I WLL UPDATE THE STUB SO THAT IT STILL FUD <strong>FOREVER</strong> and to paid my effort <strong>❗ DO NOT UPLOAD TO VIRUS TOTAL ❗</strong>
 Contribute to the dream of making the only github fud crypter that will still <strong>FUD</strong>.
 
-I created this <strong>100% FUD</strong> crypter for myself but I decided to share it.
+I created this <strong>FUD</strong> crypter for myself but I decided to share it.
 I simplified it so that it can be accessible to everyone, so it's very easy to use and already compiled.
 It was actually made for windows but I will release the source code and modify it a little bit so that linux users can use it too (I tried on wine and it's not working).
 
