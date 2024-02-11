@@ -2,7 +2,7 @@
 
 <br>
 <br>
-<div align="center"><strong>🟦🟦WORK AGAIN LATELY UPDATED!! ENJOY🟦🟦</strong></div>
+<div align="center"><strong>🟦🟦PROJECT IS PAUSED, NOT WORKING ANYMORE. WAIT FOR THE NEXT UPDATE🟦🟦</strong></div>
 <br>
 <br>
 The only <strong>FREE</strong> and 100% FUD crypter that <strong>WILL STILL FUD</strong>, work on Windows. Powerfull obfuscator to bypass Anti-Viruses detection.
